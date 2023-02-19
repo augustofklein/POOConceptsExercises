@@ -1,0 +1,15 @@
+/Users/augusto/Projects/POOConceptsExercises/Course/Dictionary/bin/Debug/net7.0/Dictionary
+/Users/augusto/Projects/POOConceptsExercises/Course/Dictionary/bin/Debug/net7.0/Dictionary.deps.json
+/Users/augusto/Projects/POOConceptsExercises/Course/Dictionary/bin/Debug/net7.0/Dictionary.runtimeconfig.json
+/Users/augusto/Projects/POOConceptsExercises/Course/Dictionary/bin/Debug/net7.0/Dictionary.dll
+/Users/augusto/Projects/POOConceptsExercises/Course/Dictionary/bin/Debug/net7.0/Dictionary.pdb
+/Users/augusto/Projects/POOConceptsExercises/Course/Dictionary/obj/Debug/net7.0/Dictionary.csproj.AssemblyReference.cache
+/Users/augusto/Projects/POOConceptsExercises/Course/Dictionary/obj/Debug/net7.0/Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/augusto/Projects/POOConceptsExercises/Course/Dictionary/obj/Debug/net7.0/Dictionary.AssemblyInfoInputs.cache
+/Users/augusto/Projects/POOConceptsExercises/Course/Dictionary/obj/Debug/net7.0/Dictionary.AssemblyInfo.cs
+/Users/augusto/Projects/POOConceptsExercises/Course/Dictionary/obj/Debug/net7.0/Dictionary.csproj.CoreCompileInputs.cache
+/Users/augusto/Projects/POOConceptsExercises/Course/Dictionary/obj/Debug/net7.0/Dictionary.dll
+/Users/augusto/Projects/POOConceptsExercises/Course/Dictionary/obj/Debug/net7.0/refint/Dictionary.dll
+/Users/augusto/Projects/POOConceptsExercises/Course/Dictionary/obj/Debug/net7.0/Dictionary.pdb
+/Users/augusto/Projects/POOConceptsExercises/Course/Dictionary/obj/Debug/net7.0/Dictionary.genruntimeconfig.cache
+/Users/augusto/Projects/POOConceptsExercises/Course/Dictionary/obj/Debug/net7.0/ref/Dictionary.dll
