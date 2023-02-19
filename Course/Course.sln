@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MulticastDelegate", "Multic
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionary", "Dictionary\Dictionary.csproj", "{A8C70345-1A99-4A2A-B04E-46F55DB6E27B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sets", "Sets\Sets.csproj", "{B6A51176-6A13-48EA-A7EC-BFC7293599FB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{A8C70345-1A99-4A2A-B04E-46F55DB6E27B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A8C70345-1A99-4A2A-B04E-46F55DB6E27B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A8C70345-1A99-4A2A-B04E-46F55DB6E27B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6A51176-6A13-48EA-A7EC-BFC7293599FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6A51176-6A13-48EA-A7EC-BFC7293599FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6A51176-6A13-48EA-A7EC-BFC7293599FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6A51176-6A13-48EA-A7EC-BFC7293599FB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

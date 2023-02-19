@@ -1,4 +1,5 @@
 ﻿<Properties StartupConfiguration="{D31F5754-FC11-4AD4-9317-C25058397124}|Default">
+  <MonoDevelop.Ide.ItemProperties.Sets FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints />
   <MonoDevelop.Ide.Workbench ActiveDocument="MulticastDelegate/Services/CalculationService.cs">
     <Files>
@@ -17,7 +18,6 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Dictionary FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
