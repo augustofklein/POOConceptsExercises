@@ -1,0 +1,15 @@
+/Users/augusto/Projects/POOConceptsExercises/Course/AbstractShapes/bin/Debug/net7.0/AbstractShapes
+/Users/augusto/Projects/POOConceptsExercises/Course/AbstractShapes/bin/Debug/net7.0/AbstractShapes.deps.json
+/Users/augusto/Projects/POOConceptsExercises/Course/AbstractShapes/bin/Debug/net7.0/AbstractShapes.runtimeconfig.json
+/Users/augusto/Projects/POOConceptsExercises/Course/AbstractShapes/bin/Debug/net7.0/AbstractShapes.dll
+/Users/augusto/Projects/POOConceptsExercises/Course/AbstractShapes/bin/Debug/net7.0/AbstractShapes.pdb
+/Users/augusto/Projects/POOConceptsExercises/Course/AbstractShapes/obj/Debug/net7.0/AbstractShapes.csproj.AssemblyReference.cache
+/Users/augusto/Projects/POOConceptsExercises/Course/AbstractShapes/obj/Debug/net7.0/AbstractShapes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/augusto/Projects/POOConceptsExercises/Course/AbstractShapes/obj/Debug/net7.0/AbstractShapes.AssemblyInfoInputs.cache
+/Users/augusto/Projects/POOConceptsExercises/Course/AbstractShapes/obj/Debug/net7.0/AbstractShapes.AssemblyInfo.cs
+/Users/augusto/Projects/POOConceptsExercises/Course/AbstractShapes/obj/Debug/net7.0/AbstractShapes.csproj.CoreCompileInputs.cache
+/Users/augusto/Projects/POOConceptsExercises/Course/AbstractShapes/obj/Debug/net7.0/AbstractShapes.dll
+/Users/augusto/Projects/POOConceptsExercises/Course/AbstractShapes/obj/Debug/net7.0/refint/AbstractShapes.dll
+/Users/augusto/Projects/POOConceptsExercises/Course/AbstractShapes/obj/Debug/net7.0/AbstractShapes.pdb
+/Users/augusto/Projects/POOConceptsExercises/Course/AbstractShapes/obj/Debug/net7.0/AbstractShapes.genruntimeconfig.cache
+/Users/augusto/Projects/POOConceptsExercises/Course/AbstractShapes/obj/Debug/net7.0/ref/AbstractShapes.dll

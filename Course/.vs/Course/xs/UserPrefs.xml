@@ -17,9 +17,9 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.AbstractShapes FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.AbstractPayers FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.MulticastDelegate PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

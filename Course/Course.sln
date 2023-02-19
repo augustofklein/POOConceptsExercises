@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sets", "Sets\Sets.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractPayers", "AbstractPayers\AbstractPayers.csproj", "{D3D455ED-ED97-41FE-9160-3FF514107634}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractShapes", "AbstractShapes\AbstractShapes.csproj", "{82076D20-763C-43D9-A023-8395080FA84E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{D3D455ED-ED97-41FE-9160-3FF514107634}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D3D455ED-ED97-41FE-9160-3FF514107634}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D3D455ED-ED97-41FE-9160-3FF514107634}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82076D20-763C-43D9-A023-8395080FA84E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82076D20-763C-43D9-A023-8395080FA84E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82076D20-763C-43D9-A023-8395080FA84E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82076D20-763C-43D9-A023-8395080FA84E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
