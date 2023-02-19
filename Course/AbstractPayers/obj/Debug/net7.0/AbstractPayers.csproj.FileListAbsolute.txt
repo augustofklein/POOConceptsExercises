@@ -1,0 +1,15 @@
+/Users/augusto/Projects/POOConceptsExercises/Course/AbstractPayers/bin/Debug/net7.0/AbstractPayers
+/Users/augusto/Projects/POOConceptsExercises/Course/AbstractPayers/bin/Debug/net7.0/AbstractPayers.deps.json
+/Users/augusto/Projects/POOConceptsExercises/Course/AbstractPayers/bin/Debug/net7.0/AbstractPayers.runtimeconfig.json
+/Users/augusto/Projects/POOConceptsExercises/Course/AbstractPayers/bin/Debug/net7.0/AbstractPayers.dll
+/Users/augusto/Projects/POOConceptsExercises/Course/AbstractPayers/bin/Debug/net7.0/AbstractPayers.pdb
+/Users/augusto/Projects/POOConceptsExercises/Course/AbstractPayers/obj/Debug/net7.0/AbstractPayers.csproj.AssemblyReference.cache
+/Users/augusto/Projects/POOConceptsExercises/Course/AbstractPayers/obj/Debug/net7.0/AbstractPayers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/augusto/Projects/POOConceptsExercises/Course/AbstractPayers/obj/Debug/net7.0/AbstractPayers.AssemblyInfoInputs.cache
+/Users/augusto/Projects/POOConceptsExercises/Course/AbstractPayers/obj/Debug/net7.0/AbstractPayers.AssemblyInfo.cs
+/Users/augusto/Projects/POOConceptsExercises/Course/AbstractPayers/obj/Debug/net7.0/AbstractPayers.csproj.CoreCompileInputs.cache
+/Users/augusto/Projects/POOConceptsExercises/Course/AbstractPayers/obj/Debug/net7.0/AbstractPayers.dll
+/Users/augusto/Projects/POOConceptsExercises/Course/AbstractPayers/obj/Debug/net7.0/refint/AbstractPayers.dll
+/Users/augusto/Projects/POOConceptsExercises/Course/AbstractPayers/obj/Debug/net7.0/AbstractPayers.pdb
+/Users/augusto/Projects/POOConceptsExercises/Course/AbstractPayers/obj/Debug/net7.0/AbstractPayers.genruntimeconfig.cache
+/Users/augusto/Projects/POOConceptsExercises/Course/AbstractPayers/obj/Debug/net7.0/ref/AbstractPayers.dll
