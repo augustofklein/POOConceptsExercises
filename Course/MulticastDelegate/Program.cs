@@ -1,3 +1,20 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using MulticastDelegate.Services;
 
+namespace Course
+{
+    delegate void BinaryNumericOperation(double n1, double n2);
+
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            double a = 10;
+            double b = 12;
+
+            BinaryNumericOperation op = CalculationService.ShowSum;
+            op += CalculationService.ShowMax;
+
+            op.Invoke(a,b);
+        }
+    }
+}

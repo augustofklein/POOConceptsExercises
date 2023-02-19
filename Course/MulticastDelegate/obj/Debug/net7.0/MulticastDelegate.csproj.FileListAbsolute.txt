@@ -1,0 +1,15 @@
+/Users/augusto/Projects/POOConceptsExercises/Course/MulticastDelegate/bin/Debug/net7.0/MulticastDelegate
+/Users/augusto/Projects/POOConceptsExercises/Course/MulticastDelegate/bin/Debug/net7.0/MulticastDelegate.deps.json
+/Users/augusto/Projects/POOConceptsExercises/Course/MulticastDelegate/bin/Debug/net7.0/MulticastDelegate.runtimeconfig.json
+/Users/augusto/Projects/POOConceptsExercises/Course/MulticastDelegate/bin/Debug/net7.0/MulticastDelegate.dll
+/Users/augusto/Projects/POOConceptsExercises/Course/MulticastDelegate/bin/Debug/net7.0/MulticastDelegate.pdb
+/Users/augusto/Projects/POOConceptsExercises/Course/MulticastDelegate/obj/Debug/net7.0/MulticastDelegate.csproj.AssemblyReference.cache
+/Users/augusto/Projects/POOConceptsExercises/Course/MulticastDelegate/obj/Debug/net7.0/MulticastDelegate.GeneratedMSBuildEditorConfig.editorconfig
+/Users/augusto/Projects/POOConceptsExercises/Course/MulticastDelegate/obj/Debug/net7.0/MulticastDelegate.AssemblyInfoInputs.cache
+/Users/augusto/Projects/POOConceptsExercises/Course/MulticastDelegate/obj/Debug/net7.0/MulticastDelegate.AssemblyInfo.cs
+/Users/augusto/Projects/POOConceptsExercises/Course/MulticastDelegate/obj/Debug/net7.0/MulticastDelegate.csproj.CoreCompileInputs.cache
+/Users/augusto/Projects/POOConceptsExercises/Course/MulticastDelegate/obj/Debug/net7.0/MulticastDelegate.dll
+/Users/augusto/Projects/POOConceptsExercises/Course/MulticastDelegate/obj/Debug/net7.0/refint/MulticastDelegate.dll
+/Users/augusto/Projects/POOConceptsExercises/Course/MulticastDelegate/obj/Debug/net7.0/MulticastDelegate.pdb
+/Users/augusto/Projects/POOConceptsExercises/Course/MulticastDelegate/obj/Debug/net7.0/MulticastDelegate.genruntimeconfig.cache
+/Users/augusto/Projects/POOConceptsExercises/Course/MulticastDelegate/obj/Debug/net7.0/ref/MulticastDelegate.dll
