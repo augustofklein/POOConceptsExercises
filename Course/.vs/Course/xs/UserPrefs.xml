@@ -1,4 +1,4 @@
-﻿<Properties StartupConfiguration="{AA52D539-2155-4F26-BDB7-93FDB2BB196F}|Default">
+﻿<Properties StartupConfiguration="{3DB26CC4-2E64-4835-A432-0779581A266A}|Default">
   <MonoDevelop.Ide.ItemProperties.FinancialException PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Directory PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints />
@@ -20,9 +20,10 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.Path PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.UsingMethod FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.EmployeeInheritance PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.StreamWriter FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.StreamWriter PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.StringTopic PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.ScheduleException PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.FileStream PreferredExecutionTarget="MonoDevelop.Default" />

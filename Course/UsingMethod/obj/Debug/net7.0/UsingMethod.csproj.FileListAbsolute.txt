@@ -1,0 +1,15 @@
+/Users/augusto/Projects/POOConceptsExercises/Course/UsingMethod/bin/Debug/net7.0/UsingMethod
+/Users/augusto/Projects/POOConceptsExercises/Course/UsingMethod/bin/Debug/net7.0/UsingMethod.deps.json
+/Users/augusto/Projects/POOConceptsExercises/Course/UsingMethod/bin/Debug/net7.0/UsingMethod.runtimeconfig.json
+/Users/augusto/Projects/POOConceptsExercises/Course/UsingMethod/bin/Debug/net7.0/UsingMethod.dll
+/Users/augusto/Projects/POOConceptsExercises/Course/UsingMethod/bin/Debug/net7.0/UsingMethod.pdb
+/Users/augusto/Projects/POOConceptsExercises/Course/UsingMethod/obj/Debug/net7.0/UsingMethod.csproj.AssemblyReference.cache
+/Users/augusto/Projects/POOConceptsExercises/Course/UsingMethod/obj/Debug/net7.0/UsingMethod.GeneratedMSBuildEditorConfig.editorconfig
+/Users/augusto/Projects/POOConceptsExercises/Course/UsingMethod/obj/Debug/net7.0/UsingMethod.AssemblyInfoInputs.cache
+/Users/augusto/Projects/POOConceptsExercises/Course/UsingMethod/obj/Debug/net7.0/UsingMethod.AssemblyInfo.cs
+/Users/augusto/Projects/POOConceptsExercises/Course/UsingMethod/obj/Debug/net7.0/UsingMethod.csproj.CoreCompileInputs.cache
+/Users/augusto/Projects/POOConceptsExercises/Course/UsingMethod/obj/Debug/net7.0/UsingMethod.dll
+/Users/augusto/Projects/POOConceptsExercises/Course/UsingMethod/obj/Debug/net7.0/refint/UsingMethod.dll
+/Users/augusto/Projects/POOConceptsExercises/Course/UsingMethod/obj/Debug/net7.0/UsingMethod.pdb
+/Users/augusto/Projects/POOConceptsExercises/Course/UsingMethod/obj/Debug/net7.0/UsingMethod.genruntimeconfig.cache
+/Users/augusto/Projects/POOConceptsExercises/Course/UsingMethod/obj/Debug/net7.0/ref/UsingMethod.dll

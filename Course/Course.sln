@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Path", "Path\Path.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StreamWriter", "StreamWriter\StreamWriter.csproj", "{3DB26CC4-2E64-4835-A432-0779581A266A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingMethod", "UsingMethod\UsingMethod.csproj", "{C89807E0-5855-4EC1-807C-7018959F4801}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +131,10 @@ Global
 		{3DB26CC4-2E64-4835-A432-0779581A266A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3DB26CC4-2E64-4835-A432-0779581A266A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3DB26CC4-2E64-4835-A432-0779581A266A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C89807E0-5855-4EC1-807C-7018959F4801}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C89807E0-5855-4EC1-807C-7018959F4801}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C89807E0-5855-4EC1-807C-7018959F4801}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C89807E0-5855-4EC1-807C-7018959F4801}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
