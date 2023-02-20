@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnumeratorOrder", "Enumerat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnumeratorWorker", "EnumeratorWorker\EnumeratorWorker.csproj", "{313E3455-EA5B-427C-8FCB-D06C02B4E43C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScheduleException", "ScheduleException\ScheduleException.csproj", "{8D61E01A-50CF-4701-83EB-A6A4FD825C4E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{313E3455-EA5B-427C-8FCB-D06C02B4E43C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{313E3455-EA5B-427C-8FCB-D06C02B4E43C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{313E3455-EA5B-427C-8FCB-D06C02B4E43C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D61E01A-50CF-4701-83EB-A6A4FD825C4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D61E01A-50CF-4701-83EB-A6A4FD825C4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D61E01A-50CF-4701-83EB-A6A4FD825C4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D61E01A-50CF-4701-83EB-A6A4FD825C4E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

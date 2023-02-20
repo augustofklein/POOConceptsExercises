@@ -1,0 +1,15 @@
+/Users/augusto/Projects/POOConceptsExercises/Course/ScheduleException/bin/Debug/net7.0/ScheduleException
+/Users/augusto/Projects/POOConceptsExercises/Course/ScheduleException/bin/Debug/net7.0/ScheduleException.deps.json
+/Users/augusto/Projects/POOConceptsExercises/Course/ScheduleException/bin/Debug/net7.0/ScheduleException.runtimeconfig.json
+/Users/augusto/Projects/POOConceptsExercises/Course/ScheduleException/bin/Debug/net7.0/ScheduleException.dll
+/Users/augusto/Projects/POOConceptsExercises/Course/ScheduleException/bin/Debug/net7.0/ScheduleException.pdb
+/Users/augusto/Projects/POOConceptsExercises/Course/ScheduleException/obj/Debug/net7.0/ScheduleException.csproj.AssemblyReference.cache
+/Users/augusto/Projects/POOConceptsExercises/Course/ScheduleException/obj/Debug/net7.0/ScheduleException.GeneratedMSBuildEditorConfig.editorconfig
+/Users/augusto/Projects/POOConceptsExercises/Course/ScheduleException/obj/Debug/net7.0/ScheduleException.AssemblyInfoInputs.cache
+/Users/augusto/Projects/POOConceptsExercises/Course/ScheduleException/obj/Debug/net7.0/ScheduleException.AssemblyInfo.cs
+/Users/augusto/Projects/POOConceptsExercises/Course/ScheduleException/obj/Debug/net7.0/ScheduleException.csproj.CoreCompileInputs.cache
+/Users/augusto/Projects/POOConceptsExercises/Course/ScheduleException/obj/Debug/net7.0/ScheduleException.dll
+/Users/augusto/Projects/POOConceptsExercises/Course/ScheduleException/obj/Debug/net7.0/refint/ScheduleException.dll
+/Users/augusto/Projects/POOConceptsExercises/Course/ScheduleException/obj/Debug/net7.0/ScheduleException.pdb
+/Users/augusto/Projects/POOConceptsExercises/Course/ScheduleException/obj/Debug/net7.0/ScheduleException.genruntimeconfig.cache
+/Users/augusto/Projects/POOConceptsExercises/Course/ScheduleException/obj/Debug/net7.0/ref/ScheduleException.dll
