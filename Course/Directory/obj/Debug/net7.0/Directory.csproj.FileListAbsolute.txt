@@ -1,0 +1,15 @@
+/Users/augusto/Projects/POOConceptsExercises/Course/Directory/bin/Debug/net7.0/Directory
+/Users/augusto/Projects/POOConceptsExercises/Course/Directory/bin/Debug/net7.0/Directory.deps.json
+/Users/augusto/Projects/POOConceptsExercises/Course/Directory/bin/Debug/net7.0/Directory.runtimeconfig.json
+/Users/augusto/Projects/POOConceptsExercises/Course/Directory/bin/Debug/net7.0/Directory.dll
+/Users/augusto/Projects/POOConceptsExercises/Course/Directory/bin/Debug/net7.0/Directory.pdb
+/Users/augusto/Projects/POOConceptsExercises/Course/Directory/obj/Debug/net7.0/Directory.csproj.AssemblyReference.cache
+/Users/augusto/Projects/POOConceptsExercises/Course/Directory/obj/Debug/net7.0/Directory.GeneratedMSBuildEditorConfig.editorconfig
+/Users/augusto/Projects/POOConceptsExercises/Course/Directory/obj/Debug/net7.0/Directory.AssemblyInfoInputs.cache
+/Users/augusto/Projects/POOConceptsExercises/Course/Directory/obj/Debug/net7.0/Directory.AssemblyInfo.cs
+/Users/augusto/Projects/POOConceptsExercises/Course/Directory/obj/Debug/net7.0/Directory.csproj.CoreCompileInputs.cache
+/Users/augusto/Projects/POOConceptsExercises/Course/Directory/obj/Debug/net7.0/Directory.dll
+/Users/augusto/Projects/POOConceptsExercises/Course/Directory/obj/Debug/net7.0/refint/Directory.dll
+/Users/augusto/Projects/POOConceptsExercises/Course/Directory/obj/Debug/net7.0/Directory.pdb
+/Users/augusto/Projects/POOConceptsExercises/Course/Directory/obj/Debug/net7.0/Directory.genruntimeconfig.cache
+/Users/augusto/Projects/POOConceptsExercises/Course/Directory/obj/Debug/net7.0/ref/Directory.dll
