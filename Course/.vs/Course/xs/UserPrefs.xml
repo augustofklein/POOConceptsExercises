@@ -1,4 +1,5 @@
-﻿<Properties StartupConfiguration="{D31F5754-FC11-4AD4-9317-C25058397124}|Default">
+﻿<Properties StartupConfiguration="{8D61E01A-50CF-4701-83EB-A6A4FD825C4E}|Default">
+  <MonoDevelop.Ide.ItemProperties.FinancialException FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints />
   <MonoDevelop.Ide.Workbench ActiveDocument="MulticastDelegate/Services/CalculationService.cs">
     <Files>
@@ -18,7 +19,7 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.ScheduleException FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.ScheduleException PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.MulticastDelegate PreferredExecutionTarget="MonoDevelop.Default" />

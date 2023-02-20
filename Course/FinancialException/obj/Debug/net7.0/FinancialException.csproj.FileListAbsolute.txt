@@ -1,0 +1,15 @@
+/Users/augusto/Projects/POOConceptsExercises/Course/FinancialException/bin/Debug/net7.0/FinancialException
+/Users/augusto/Projects/POOConceptsExercises/Course/FinancialException/bin/Debug/net7.0/FinancialException.deps.json
+/Users/augusto/Projects/POOConceptsExercises/Course/FinancialException/bin/Debug/net7.0/FinancialException.runtimeconfig.json
+/Users/augusto/Projects/POOConceptsExercises/Course/FinancialException/bin/Debug/net7.0/FinancialException.dll
+/Users/augusto/Projects/POOConceptsExercises/Course/FinancialException/bin/Debug/net7.0/FinancialException.pdb
+/Users/augusto/Projects/POOConceptsExercises/Course/FinancialException/obj/Debug/net7.0/FinancialException.csproj.AssemblyReference.cache
+/Users/augusto/Projects/POOConceptsExercises/Course/FinancialException/obj/Debug/net7.0/FinancialException.GeneratedMSBuildEditorConfig.editorconfig
+/Users/augusto/Projects/POOConceptsExercises/Course/FinancialException/obj/Debug/net7.0/FinancialException.AssemblyInfoInputs.cache
+/Users/augusto/Projects/POOConceptsExercises/Course/FinancialException/obj/Debug/net7.0/FinancialException.AssemblyInfo.cs
+/Users/augusto/Projects/POOConceptsExercises/Course/FinancialException/obj/Debug/net7.0/FinancialException.csproj.CoreCompileInputs.cache
+/Users/augusto/Projects/POOConceptsExercises/Course/FinancialException/obj/Debug/net7.0/FinancialException.dll
+/Users/augusto/Projects/POOConceptsExercises/Course/FinancialException/obj/Debug/net7.0/refint/FinancialException.dll
+/Users/augusto/Projects/POOConceptsExercises/Course/FinancialException/obj/Debug/net7.0/FinancialException.pdb
+/Users/augusto/Projects/POOConceptsExercises/Course/FinancialException/obj/Debug/net7.0/FinancialException.genruntimeconfig.cache
+/Users/augusto/Projects/POOConceptsExercises/Course/FinancialException/obj/Debug/net7.0/ref/FinancialException.dll
