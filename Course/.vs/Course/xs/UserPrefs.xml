@@ -22,6 +22,7 @@
   <MonoDevelop.Ide.ItemProperties.EmployeeInheritance PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.ScheduleException PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.ContractInterface FirstBuild="True" />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.ProductInheritance FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.MulticastDelegate PreferredExecutionTarget="MonoDevelop.Default" />

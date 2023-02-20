@@ -1,0 +1,15 @@
+/Users/augusto/Projects/POOConceptsExercises/Course/ContractInterface/bin/Debug/net7.0/ContractInterface
+/Users/augusto/Projects/POOConceptsExercises/Course/ContractInterface/bin/Debug/net7.0/ContractInterface.deps.json
+/Users/augusto/Projects/POOConceptsExercises/Course/ContractInterface/bin/Debug/net7.0/ContractInterface.runtimeconfig.json
+/Users/augusto/Projects/POOConceptsExercises/Course/ContractInterface/bin/Debug/net7.0/ContractInterface.dll
+/Users/augusto/Projects/POOConceptsExercises/Course/ContractInterface/bin/Debug/net7.0/ContractInterface.pdb
+/Users/augusto/Projects/POOConceptsExercises/Course/ContractInterface/obj/Debug/net7.0/ContractInterface.csproj.AssemblyReference.cache
+/Users/augusto/Projects/POOConceptsExercises/Course/ContractInterface/obj/Debug/net7.0/ContractInterface.GeneratedMSBuildEditorConfig.editorconfig
+/Users/augusto/Projects/POOConceptsExercises/Course/ContractInterface/obj/Debug/net7.0/ContractInterface.AssemblyInfoInputs.cache
+/Users/augusto/Projects/POOConceptsExercises/Course/ContractInterface/obj/Debug/net7.0/ContractInterface.AssemblyInfo.cs
+/Users/augusto/Projects/POOConceptsExercises/Course/ContractInterface/obj/Debug/net7.0/ContractInterface.csproj.CoreCompileInputs.cache
+/Users/augusto/Projects/POOConceptsExercises/Course/ContractInterface/obj/Debug/net7.0/ContractInterface.dll
+/Users/augusto/Projects/POOConceptsExercises/Course/ContractInterface/obj/Debug/net7.0/refint/ContractInterface.dll
+/Users/augusto/Projects/POOConceptsExercises/Course/ContractInterface/obj/Debug/net7.0/ContractInterface.pdb
+/Users/augusto/Projects/POOConceptsExercises/Course/ContractInterface/obj/Debug/net7.0/ContractInterface.genruntimeconfig.cache
+/Users/augusto/Projects/POOConceptsExercises/Course/ContractInterface/obj/Debug/net7.0/ref/ContractInterface.dll
