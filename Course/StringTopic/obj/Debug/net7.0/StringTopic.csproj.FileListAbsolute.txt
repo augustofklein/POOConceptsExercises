@@ -1,0 +1,15 @@
+/Users/augusto/Projects/POOConceptsExercises/Course/StringTopic/bin/Debug/net7.0/StringTopic
+/Users/augusto/Projects/POOConceptsExercises/Course/StringTopic/bin/Debug/net7.0/StringTopic.deps.json
+/Users/augusto/Projects/POOConceptsExercises/Course/StringTopic/bin/Debug/net7.0/StringTopic.runtimeconfig.json
+/Users/augusto/Projects/POOConceptsExercises/Course/StringTopic/bin/Debug/net7.0/StringTopic.dll
+/Users/augusto/Projects/POOConceptsExercises/Course/StringTopic/bin/Debug/net7.0/StringTopic.pdb
+/Users/augusto/Projects/POOConceptsExercises/Course/StringTopic/obj/Debug/net7.0/StringTopic.csproj.AssemblyReference.cache
+/Users/augusto/Projects/POOConceptsExercises/Course/StringTopic/obj/Debug/net7.0/StringTopic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/augusto/Projects/POOConceptsExercises/Course/StringTopic/obj/Debug/net7.0/StringTopic.AssemblyInfoInputs.cache
+/Users/augusto/Projects/POOConceptsExercises/Course/StringTopic/obj/Debug/net7.0/StringTopic.AssemblyInfo.cs
+/Users/augusto/Projects/POOConceptsExercises/Course/StringTopic/obj/Debug/net7.0/StringTopic.csproj.CoreCompileInputs.cache
+/Users/augusto/Projects/POOConceptsExercises/Course/StringTopic/obj/Debug/net7.0/StringTopic.dll
+/Users/augusto/Projects/POOConceptsExercises/Course/StringTopic/obj/Debug/net7.0/refint/StringTopic.dll
+/Users/augusto/Projects/POOConceptsExercises/Course/StringTopic/obj/Debug/net7.0/StringTopic.pdb
+/Users/augusto/Projects/POOConceptsExercises/Course/StringTopic/obj/Debug/net7.0/StringTopic.genruntimeconfig.cache
+/Users/augusto/Projects/POOConceptsExercises/Course/StringTopic/obj/Debug/net7.0/ref/StringTopic.dll
