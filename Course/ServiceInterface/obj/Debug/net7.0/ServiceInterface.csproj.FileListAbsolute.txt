@@ -1,0 +1,15 @@
+/Users/augusto/Projects/POOConceptsExercises/Course/ServiceInterface/bin/Debug/net7.0/ServiceInterface
+/Users/augusto/Projects/POOConceptsExercises/Course/ServiceInterface/bin/Debug/net7.0/ServiceInterface.deps.json
+/Users/augusto/Projects/POOConceptsExercises/Course/ServiceInterface/bin/Debug/net7.0/ServiceInterface.runtimeconfig.json
+/Users/augusto/Projects/POOConceptsExercises/Course/ServiceInterface/bin/Debug/net7.0/ServiceInterface.dll
+/Users/augusto/Projects/POOConceptsExercises/Course/ServiceInterface/bin/Debug/net7.0/ServiceInterface.pdb
+/Users/augusto/Projects/POOConceptsExercises/Course/ServiceInterface/obj/Debug/net7.0/ServiceInterface.csproj.AssemblyReference.cache
+/Users/augusto/Projects/POOConceptsExercises/Course/ServiceInterface/obj/Debug/net7.0/ServiceInterface.GeneratedMSBuildEditorConfig.editorconfig
+/Users/augusto/Projects/POOConceptsExercises/Course/ServiceInterface/obj/Debug/net7.0/ServiceInterface.AssemblyInfoInputs.cache
+/Users/augusto/Projects/POOConceptsExercises/Course/ServiceInterface/obj/Debug/net7.0/ServiceInterface.AssemblyInfo.cs
+/Users/augusto/Projects/POOConceptsExercises/Course/ServiceInterface/obj/Debug/net7.0/ServiceInterface.csproj.CoreCompileInputs.cache
+/Users/augusto/Projects/POOConceptsExercises/Course/ServiceInterface/obj/Debug/net7.0/ServiceInterface.dll
+/Users/augusto/Projects/POOConceptsExercises/Course/ServiceInterface/obj/Debug/net7.0/refint/ServiceInterface.dll
+/Users/augusto/Projects/POOConceptsExercises/Course/ServiceInterface/obj/Debug/net7.0/ServiceInterface.pdb
+/Users/augusto/Projects/POOConceptsExercises/Course/ServiceInterface/obj/Debug/net7.0/ServiceInterface.genruntimeconfig.cache
+/Users/augusto/Projects/POOConceptsExercises/Course/ServiceInterface/obj/Debug/net7.0/ref/ServiceInterface.dll
