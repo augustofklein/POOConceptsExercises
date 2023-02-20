@@ -1,0 +1,15 @@
+/Users/augusto/Projects/POOConceptsExercises/Course/EnumeratorWorker/bin/Debug/net7.0/EnumeratorWorker
+/Users/augusto/Projects/POOConceptsExercises/Course/EnumeratorWorker/bin/Debug/net7.0/EnumeratorWorker.deps.json
+/Users/augusto/Projects/POOConceptsExercises/Course/EnumeratorWorker/bin/Debug/net7.0/EnumeratorWorker.runtimeconfig.json
+/Users/augusto/Projects/POOConceptsExercises/Course/EnumeratorWorker/bin/Debug/net7.0/EnumeratorWorker.dll
+/Users/augusto/Projects/POOConceptsExercises/Course/EnumeratorWorker/bin/Debug/net7.0/EnumeratorWorker.pdb
+/Users/augusto/Projects/POOConceptsExercises/Course/EnumeratorWorker/obj/Debug/net7.0/EnumeratorWorker.csproj.AssemblyReference.cache
+/Users/augusto/Projects/POOConceptsExercises/Course/EnumeratorWorker/obj/Debug/net7.0/EnumeratorWorker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/augusto/Projects/POOConceptsExercises/Course/EnumeratorWorker/obj/Debug/net7.0/EnumeratorWorker.AssemblyInfoInputs.cache
+/Users/augusto/Projects/POOConceptsExercises/Course/EnumeratorWorker/obj/Debug/net7.0/EnumeratorWorker.AssemblyInfo.cs
+/Users/augusto/Projects/POOConceptsExercises/Course/EnumeratorWorker/obj/Debug/net7.0/EnumeratorWorker.csproj.CoreCompileInputs.cache
+/Users/augusto/Projects/POOConceptsExercises/Course/EnumeratorWorker/obj/Debug/net7.0/EnumeratorWorker.dll
+/Users/augusto/Projects/POOConceptsExercises/Course/EnumeratorWorker/obj/Debug/net7.0/refint/EnumeratorWorker.dll
+/Users/augusto/Projects/POOConceptsExercises/Course/EnumeratorWorker/obj/Debug/net7.0/EnumeratorWorker.pdb
+/Users/augusto/Projects/POOConceptsExercises/Course/EnumeratorWorker/obj/Debug/net7.0/EnumeratorWorker.genruntimeconfig.cache
+/Users/augusto/Projects/POOConceptsExercises/Course/EnumeratorWorker/obj/Debug/net7.0/ref/EnumeratorWorker.dll
