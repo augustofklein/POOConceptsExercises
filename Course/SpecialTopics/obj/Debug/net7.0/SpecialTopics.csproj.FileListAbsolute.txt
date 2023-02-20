@@ -1,0 +1,15 @@
+/Users/augusto/Projects/POOConceptsExercises/Course/SpecialTopics/bin/Debug/net7.0/SpecialTopics
+/Users/augusto/Projects/POOConceptsExercises/Course/SpecialTopics/bin/Debug/net7.0/SpecialTopics.deps.json
+/Users/augusto/Projects/POOConceptsExercises/Course/SpecialTopics/bin/Debug/net7.0/SpecialTopics.runtimeconfig.json
+/Users/augusto/Projects/POOConceptsExercises/Course/SpecialTopics/bin/Debug/net7.0/SpecialTopics.dll
+/Users/augusto/Projects/POOConceptsExercises/Course/SpecialTopics/bin/Debug/net7.0/SpecialTopics.pdb
+/Users/augusto/Projects/POOConceptsExercises/Course/SpecialTopics/obj/Debug/net7.0/SpecialTopics.csproj.AssemblyReference.cache
+/Users/augusto/Projects/POOConceptsExercises/Course/SpecialTopics/obj/Debug/net7.0/SpecialTopics.GeneratedMSBuildEditorConfig.editorconfig
+/Users/augusto/Projects/POOConceptsExercises/Course/SpecialTopics/obj/Debug/net7.0/SpecialTopics.AssemblyInfoInputs.cache
+/Users/augusto/Projects/POOConceptsExercises/Course/SpecialTopics/obj/Debug/net7.0/SpecialTopics.AssemblyInfo.cs
+/Users/augusto/Projects/POOConceptsExercises/Course/SpecialTopics/obj/Debug/net7.0/SpecialTopics.csproj.CoreCompileInputs.cache
+/Users/augusto/Projects/POOConceptsExercises/Course/SpecialTopics/obj/Debug/net7.0/SpecialTopics.dll
+/Users/augusto/Projects/POOConceptsExercises/Course/SpecialTopics/obj/Debug/net7.0/refint/SpecialTopics.dll
+/Users/augusto/Projects/POOConceptsExercises/Course/SpecialTopics/obj/Debug/net7.0/SpecialTopics.pdb
+/Users/augusto/Projects/POOConceptsExercises/Course/SpecialTopics/obj/Debug/net7.0/SpecialTopics.genruntimeconfig.cache
+/Users/augusto/Projects/POOConceptsExercises/Course/SpecialTopics/obj/Debug/net7.0/ref/SpecialTopics.dll

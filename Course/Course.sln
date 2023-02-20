@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContractInterface", "Contra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceInterface", "ServiceInterface\ServiceInterface.csproj", "{D4496645-50A1-4F34-AF2C-F46D0FA2A81A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecialTopics", "SpecialTopics\SpecialTopics.csproj", "{5068C9C6-B8E1-45DD-921C-6D0A2FFD8EBF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{D4496645-50A1-4F34-AF2C-F46D0FA2A81A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D4496645-50A1-4F34-AF2C-F46D0FA2A81A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D4496645-50A1-4F34-AF2C-F46D0FA2A81A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5068C9C6-B8E1-45DD-921C-6D0A2FFD8EBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5068C9C6-B8E1-45DD-921C-6D0A2FFD8EBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5068C9C6-B8E1-45DD-921C-6D0A2FFD8EBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5068C9C6-B8E1-45DD-921C-6D0A2FFD8EBF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,4 +1,4 @@
-﻿<Properties StartupConfiguration="{2AD812A7-EB3D-4306-B0DF-9CD704EEDCB2}|Default">
+﻿<Properties StartupConfiguration="{D4496645-50A1-4F34-AF2C-F46D0FA2A81A}|Default">
   <MonoDevelop.Ide.ItemProperties.FinancialException PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints />
   <MonoDevelop.Ide.Workbench ActiveDocument="MulticastDelegate/Services/CalculationService.cs">
@@ -25,6 +25,7 @@
   <MonoDevelop.Ide.ItemProperties.ContractInterface PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.ProductInheritance FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.ServiceInterface FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.SpecialTopics FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.ServiceInterface PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.MulticastDelegate PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
