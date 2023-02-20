@@ -1,0 +1,15 @@
+/Users/augusto/Projects/POOConceptsExercises/Course/FileInfo/bin/Debug/net7.0/FileInfo
+/Users/augusto/Projects/POOConceptsExercises/Course/FileInfo/bin/Debug/net7.0/FileInfo.deps.json
+/Users/augusto/Projects/POOConceptsExercises/Course/FileInfo/bin/Debug/net7.0/FileInfo.runtimeconfig.json
+/Users/augusto/Projects/POOConceptsExercises/Course/FileInfo/bin/Debug/net7.0/FileInfo.dll
+/Users/augusto/Projects/POOConceptsExercises/Course/FileInfo/bin/Debug/net7.0/FileInfo.pdb
+/Users/augusto/Projects/POOConceptsExercises/Course/FileInfo/obj/Debug/net7.0/FileInfo.csproj.AssemblyReference.cache
+/Users/augusto/Projects/POOConceptsExercises/Course/FileInfo/obj/Debug/net7.0/FileInfo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/augusto/Projects/POOConceptsExercises/Course/FileInfo/obj/Debug/net7.0/FileInfo.AssemblyInfoInputs.cache
+/Users/augusto/Projects/POOConceptsExercises/Course/FileInfo/obj/Debug/net7.0/FileInfo.AssemblyInfo.cs
+/Users/augusto/Projects/POOConceptsExercises/Course/FileInfo/obj/Debug/net7.0/FileInfo.csproj.CoreCompileInputs.cache
+/Users/augusto/Projects/POOConceptsExercises/Course/FileInfo/obj/Debug/net7.0/FileInfo.dll
+/Users/augusto/Projects/POOConceptsExercises/Course/FileInfo/obj/Debug/net7.0/refint/FileInfo.dll
+/Users/augusto/Projects/POOConceptsExercises/Course/FileInfo/obj/Debug/net7.0/FileInfo.pdb
+/Users/augusto/Projects/POOConceptsExercises/Course/FileInfo/obj/Debug/net7.0/FileInfo.genruntimeconfig.cache
+/Users/augusto/Projects/POOConceptsExercises/Course/FileInfo/obj/Debug/net7.0/ref/FileInfo.dll

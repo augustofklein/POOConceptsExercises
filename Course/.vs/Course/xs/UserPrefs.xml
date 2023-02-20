@@ -1,6 +1,6 @@
-﻿<Properties StartupConfiguration="{CFD79646-4BCD-4F3A-81B2-6FB5633913C4}|Default">
+﻿<Properties StartupConfiguration="{660DF524-091F-4F51-84BC-D1FD9C342B4F}|Default">
   <MonoDevelop.Ide.ItemProperties.FinancialException PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.Directory FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Directory PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints />
   <MonoDevelop.Ide.Workbench ActiveDocument="MulticastDelegate/Services/CalculationService.cs">
     <Files>
@@ -23,6 +23,7 @@
   <MonoDevelop.Ide.ItemProperties.EmployeeInheritance PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.StringTopic PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.ScheduleException PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.FileInfo FirstBuild="True" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.ContractInterface PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
