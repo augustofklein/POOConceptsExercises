@@ -1,0 +1,15 @@
+/Users/augusto/Projects/POOConceptsExercises/Course/EmployeeInheritance/bin/Debug/net7.0/EmployeeInheritance
+/Users/augusto/Projects/POOConceptsExercises/Course/EmployeeInheritance/bin/Debug/net7.0/EmployeeInheritance.deps.json
+/Users/augusto/Projects/POOConceptsExercises/Course/EmployeeInheritance/bin/Debug/net7.0/EmployeeInheritance.runtimeconfig.json
+/Users/augusto/Projects/POOConceptsExercises/Course/EmployeeInheritance/bin/Debug/net7.0/EmployeeInheritance.dll
+/Users/augusto/Projects/POOConceptsExercises/Course/EmployeeInheritance/bin/Debug/net7.0/EmployeeInheritance.pdb
+/Users/augusto/Projects/POOConceptsExercises/Course/EmployeeInheritance/obj/Debug/net7.0/EmployeeInheritance.csproj.AssemblyReference.cache
+/Users/augusto/Projects/POOConceptsExercises/Course/EmployeeInheritance/obj/Debug/net7.0/EmployeeInheritance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/augusto/Projects/POOConceptsExercises/Course/EmployeeInheritance/obj/Debug/net7.0/EmployeeInheritance.AssemblyInfoInputs.cache
+/Users/augusto/Projects/POOConceptsExercises/Course/EmployeeInheritance/obj/Debug/net7.0/EmployeeInheritance.AssemblyInfo.cs
+/Users/augusto/Projects/POOConceptsExercises/Course/EmployeeInheritance/obj/Debug/net7.0/EmployeeInheritance.csproj.CoreCompileInputs.cache
+/Users/augusto/Projects/POOConceptsExercises/Course/EmployeeInheritance/obj/Debug/net7.0/EmployeeInheritance.dll
+/Users/augusto/Projects/POOConceptsExercises/Course/EmployeeInheritance/obj/Debug/net7.0/refint/EmployeeInheritance.dll
+/Users/augusto/Projects/POOConceptsExercises/Course/EmployeeInheritance/obj/Debug/net7.0/EmployeeInheritance.pdb
+/Users/augusto/Projects/POOConceptsExercises/Course/EmployeeInheritance/obj/Debug/net7.0/EmployeeInheritance.genruntimeconfig.cache
+/Users/augusto/Projects/POOConceptsExercises/Course/EmployeeInheritance/obj/Debug/net7.0/ref/EmployeeInheritance.dll
