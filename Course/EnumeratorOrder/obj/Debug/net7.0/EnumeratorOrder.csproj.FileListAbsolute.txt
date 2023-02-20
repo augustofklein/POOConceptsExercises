@@ -1,0 +1,15 @@
+/Users/augusto/Projects/POOConceptsExercises/Course/EnumeratorOrder/bin/Debug/net7.0/EnumeratorOrder
+/Users/augusto/Projects/POOConceptsExercises/Course/EnumeratorOrder/bin/Debug/net7.0/EnumeratorOrder.deps.json
+/Users/augusto/Projects/POOConceptsExercises/Course/EnumeratorOrder/bin/Debug/net7.0/EnumeratorOrder.runtimeconfig.json
+/Users/augusto/Projects/POOConceptsExercises/Course/EnumeratorOrder/bin/Debug/net7.0/EnumeratorOrder.dll
+/Users/augusto/Projects/POOConceptsExercises/Course/EnumeratorOrder/bin/Debug/net7.0/EnumeratorOrder.pdb
+/Users/augusto/Projects/POOConceptsExercises/Course/EnumeratorOrder/obj/Debug/net7.0/EnumeratorOrder.csproj.AssemblyReference.cache
+/Users/augusto/Projects/POOConceptsExercises/Course/EnumeratorOrder/obj/Debug/net7.0/EnumeratorOrder.GeneratedMSBuildEditorConfig.editorconfig
+/Users/augusto/Projects/POOConceptsExercises/Course/EnumeratorOrder/obj/Debug/net7.0/EnumeratorOrder.AssemblyInfoInputs.cache
+/Users/augusto/Projects/POOConceptsExercises/Course/EnumeratorOrder/obj/Debug/net7.0/EnumeratorOrder.AssemblyInfo.cs
+/Users/augusto/Projects/POOConceptsExercises/Course/EnumeratorOrder/obj/Debug/net7.0/EnumeratorOrder.csproj.CoreCompileInputs.cache
+/Users/augusto/Projects/POOConceptsExercises/Course/EnumeratorOrder/obj/Debug/net7.0/EnumeratorOrder.dll
+/Users/augusto/Projects/POOConceptsExercises/Course/EnumeratorOrder/obj/Debug/net7.0/refint/EnumeratorOrder.dll
+/Users/augusto/Projects/POOConceptsExercises/Course/EnumeratorOrder/obj/Debug/net7.0/EnumeratorOrder.pdb
+/Users/augusto/Projects/POOConceptsExercises/Course/EnumeratorOrder/obj/Debug/net7.0/EnumeratorOrder.genruntimeconfig.cache
+/Users/augusto/Projects/POOConceptsExercises/Course/EnumeratorOrder/obj/Debug/net7.0/ref/EnumeratorOrder.dll
