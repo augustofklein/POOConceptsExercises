@@ -1,4 +1,4 @@
-﻿<Properties StartupConfiguration="{660DF524-091F-4F51-84BC-D1FD9C342B4F}|Default">
+﻿<Properties StartupConfiguration="{354A4CF2-6F4F-49AD-A464-13AEABCE7B37}|Default">
   <MonoDevelop.Ide.ItemProperties.FinancialException PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Directory PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints />
@@ -23,7 +23,8 @@
   <MonoDevelop.Ide.ItemProperties.EmployeeInheritance PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.StringTopic PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.ScheduleException PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.FileInfo FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.FileStream FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.FileInfo PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.ContractInterface PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
