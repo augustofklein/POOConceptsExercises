@@ -1,0 +1,15 @@
+/Users/augusto/Projects/POOConceptsExercises/Course/LINQLambda/bin/Debug/net7.0/LINQLambda
+/Users/augusto/Projects/POOConceptsExercises/Course/LINQLambda/bin/Debug/net7.0/LINQLambda.deps.json
+/Users/augusto/Projects/POOConceptsExercises/Course/LINQLambda/bin/Debug/net7.0/LINQLambda.runtimeconfig.json
+/Users/augusto/Projects/POOConceptsExercises/Course/LINQLambda/bin/Debug/net7.0/LINQLambda.dll
+/Users/augusto/Projects/POOConceptsExercises/Course/LINQLambda/bin/Debug/net7.0/LINQLambda.pdb
+/Users/augusto/Projects/POOConceptsExercises/Course/LINQLambda/obj/Debug/net7.0/LINQLambda.csproj.AssemblyReference.cache
+/Users/augusto/Projects/POOConceptsExercises/Course/LINQLambda/obj/Debug/net7.0/LINQLambda.GeneratedMSBuildEditorConfig.editorconfig
+/Users/augusto/Projects/POOConceptsExercises/Course/LINQLambda/obj/Debug/net7.0/LINQLambda.AssemblyInfoInputs.cache
+/Users/augusto/Projects/POOConceptsExercises/Course/LINQLambda/obj/Debug/net7.0/LINQLambda.AssemblyInfo.cs
+/Users/augusto/Projects/POOConceptsExercises/Course/LINQLambda/obj/Debug/net7.0/LINQLambda.csproj.CoreCompileInputs.cache
+/Users/augusto/Projects/POOConceptsExercises/Course/LINQLambda/obj/Debug/net7.0/LINQLambda.dll
+/Users/augusto/Projects/POOConceptsExercises/Course/LINQLambda/obj/Debug/net7.0/refint/LINQLambda.dll
+/Users/augusto/Projects/POOConceptsExercises/Course/LINQLambda/obj/Debug/net7.0/LINQLambda.pdb
+/Users/augusto/Projects/POOConceptsExercises/Course/LINQLambda/obj/Debug/net7.0/LINQLambda.genruntimeconfig.cache
+/Users/augusto/Projects/POOConceptsExercises/Course/LINQLambda/obj/Debug/net7.0/ref/LINQLambda.dll
