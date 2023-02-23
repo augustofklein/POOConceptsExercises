@@ -1,5 +1,6 @@
-﻿<Properties StartupConfiguration="{C89807E0-5855-4EC1-807C-7018959F4801}|Default">
-  <MonoDevelop.Ide.ItemProperties.LINQLambda FirstBuild="True" />
+﻿<Properties StartupConfiguration="{2CBA13DE-F9D2-4973-BB8A-E2B769DE59DA}|Default">
+  <MonoDevelop.Ide.ItemProperties.LINQLambda PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.LINQEmployee FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.FinancialException PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Directory PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints />

@@ -1,0 +1,15 @@
+/Users/augusto/Projects/POOConceptsExercises/Course/LINQEmployee/bin/Debug/net7.0/LINQEmployee
+/Users/augusto/Projects/POOConceptsExercises/Course/LINQEmployee/bin/Debug/net7.0/LINQEmployee.deps.json
+/Users/augusto/Projects/POOConceptsExercises/Course/LINQEmployee/bin/Debug/net7.0/LINQEmployee.runtimeconfig.json
+/Users/augusto/Projects/POOConceptsExercises/Course/LINQEmployee/bin/Debug/net7.0/LINQEmployee.dll
+/Users/augusto/Projects/POOConceptsExercises/Course/LINQEmployee/bin/Debug/net7.0/LINQEmployee.pdb
+/Users/augusto/Projects/POOConceptsExercises/Course/LINQEmployee/obj/Debug/net7.0/LINQEmployee.csproj.AssemblyReference.cache
+/Users/augusto/Projects/POOConceptsExercises/Course/LINQEmployee/obj/Debug/net7.0/LINQEmployee.GeneratedMSBuildEditorConfig.editorconfig
+/Users/augusto/Projects/POOConceptsExercises/Course/LINQEmployee/obj/Debug/net7.0/LINQEmployee.AssemblyInfoInputs.cache
+/Users/augusto/Projects/POOConceptsExercises/Course/LINQEmployee/obj/Debug/net7.0/LINQEmployee.AssemblyInfo.cs
+/Users/augusto/Projects/POOConceptsExercises/Course/LINQEmployee/obj/Debug/net7.0/LINQEmployee.csproj.CoreCompileInputs.cache
+/Users/augusto/Projects/POOConceptsExercises/Course/LINQEmployee/obj/Debug/net7.0/LINQEmployee.dll
+/Users/augusto/Projects/POOConceptsExercises/Course/LINQEmployee/obj/Debug/net7.0/refint/LINQEmployee.dll
+/Users/augusto/Projects/POOConceptsExercises/Course/LINQEmployee/obj/Debug/net7.0/LINQEmployee.pdb
+/Users/augusto/Projects/POOConceptsExercises/Course/LINQEmployee/obj/Debug/net7.0/LINQEmployee.genruntimeconfig.cache
+/Users/augusto/Projects/POOConceptsExercises/Course/LINQEmployee/obj/Debug/net7.0/ref/LINQEmployee.dll
